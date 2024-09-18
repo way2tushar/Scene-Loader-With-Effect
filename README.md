@@ -1,4 +1,4 @@
-# Scene-Loader-With-Effect
+# Unity Scene Loader With Effect
 
  Load your unity scene with black fade-in, fade-out effect
 
